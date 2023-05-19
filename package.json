@@ -11,6 +11,7 @@
     "test": "mocha",
     "build": "node index.js"
   },
+  "homepage": "https://github.com/schnellsoft/sndset#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
