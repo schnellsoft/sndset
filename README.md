@@ -1,11 +1,11 @@
 # Operations with sets
 ## Install
 ```
-npm i @snd/set
+npm i @sndmath/set
 ```
 ## Import
 ```
-import { SndSet } from '@snd/set';
+import { SndSet } from '@sndmath/set';
 ```
 ## Union
 ```
