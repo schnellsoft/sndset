@@ -12,7 +12,7 @@
     "build": "node index.js"
   },
   "homepage": "https://github.com/schnellsoft/sndset#readme",
-  "keywords": [],
+  "keywords": ["sets operations", "set", "sets", "operations", "operations with sets"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
